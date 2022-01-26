@@ -23,7 +23,7 @@ namespace Metaverso
             Assert.Equal(esperado, result);
         }
 
-        [[Fact]
+        [Fact]
         public void MetaVersoTestArray()
         {
             // Given
