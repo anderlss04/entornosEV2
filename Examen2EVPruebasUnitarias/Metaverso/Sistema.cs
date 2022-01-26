@@ -46,6 +46,10 @@ namespace Metaverso
             {
                 cadena += "Verso";
             }
+            else
+            {
+                cadena += ""+ numA[i];
+            }
             
             }
 
